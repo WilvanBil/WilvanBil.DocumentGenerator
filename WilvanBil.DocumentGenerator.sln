@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WilvanBil.DocumentGenerator.Api", "WilvanBil.DocumentGenerator.Api.csproj", "{4391BF0A-31E4-415B-A7B4-DB04E7737092}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WilvanBil.DocumentGenerator.Contracts", "..\WilvanBil.MassTransittests.Contracts\WilvanBil.DocumentGenerator.Contracts.csproj", "{6DD62D65-E1F3-4DEE-8932-04F9F9D150E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4391BF0A-31E4-415B-A7B4-DB04E7737092}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4391BF0A-31E4-415B-A7B4-DB04E7737092}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4391BF0A-31E4-415B-A7B4-DB04E7737092}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4391BF0A-31E4-415B-A7B4-DB04E7737092}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DD62D65-E1F3-4DEE-8932-04F9F9D150E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DD62D65-E1F3-4DEE-8932-04F9F9D150E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DD62D65-E1F3-4DEE-8932-04F9F9D150E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DD62D65-E1F3-4DEE-8932-04F9F9D150E5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7CCFBFBF-1B4A-4C6F-A745-98D91FAE5FF0}
+	EndGlobalSection
+EndGlobal
